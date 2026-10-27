@@ -1,3 +1,3 @@
 # Source_AI
-Dang hoc Git va GitHub
+Master branch: learn Git
 Feature: login
